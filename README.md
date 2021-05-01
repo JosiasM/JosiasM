@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 I am studying Systems Analysis and Development.
 
 - 💬 Ask me about **Python, VBA, SQL**
-- 🌱 I’m currently learning **HTML, CSS, Javascript and Frameworks**
+- 🌱 I’m currently learning **HTML, CSS, Javascript Java and Frameworks**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Josias%20Lima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josias-martins/)](https://www.linkedin.com/in/josias-martins/)
