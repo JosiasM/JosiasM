@@ -22,4 +22,4 @@ I am studying Systems Analysis and Development.
 
 - 💬 Ask me about **Python, VBA, SQL**
 - 🌱 I’m currently learning **HTML, CSS, Javascript and Frameworks**
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/josias-martins/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Josias Lima" height="20" width="20" /></a>[/in/josias-martins/](https://www.linkedin.com/in/josias-martins/)
+- [![Linkedin Badge](https://img.shields.io/badge/-Josias%20Lima-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/josias-martins/)](https://www.linkedin.com/in/josias-martins/) 
