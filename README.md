@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi , I'm Josias Lima</h1>
+<h1 align="center">Hi, I'm Josias Lima</h1>
 
 I am studying Executive MBA, Data Science & Artificial Intelligence at FIAP.
 
