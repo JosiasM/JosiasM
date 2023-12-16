@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi there 👋, I'm Josias Lima</h1>
+<h1 align="center">Hi , I'm Josias Lima</h1>
 
-I am studying Systems Analysis and Development.
+I am studying Executive MBA, Data Science & Artificial Intelligence at FIAP.
 
 - 💬 Ask me about **Python, Pyspark, SQL and Data Science**
 - 🌱 I’m currently learning **Machine Learning and Data Engineer**
